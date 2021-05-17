@@ -1,5 +1,5 @@
 # GR0CERY-FiLL
-This is the one might help me to get a job and show that i can do all this stuff relatively hard
+This is the one might help me to get a job and show that i can do all this relatively hard stuff.
 
 
 ## Development
