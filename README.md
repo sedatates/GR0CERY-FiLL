@@ -10,6 +10,7 @@ npm install --save reactstrap react react-dom
 #Running the engines
 
 **cd your d to api and run this**
+
 npx json-server ---watch db.json
 
 *AND OPEN ANOTHER TERMINAL*
