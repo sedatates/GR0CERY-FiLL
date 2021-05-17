@@ -1,22 +1,26 @@
-##GR0CERY-FiLL
+# GR0CERY-FiLL
 This is the one, my first react project. Huge step for me nothing much for universe.
 
 
-#Development
+## Development
+
 npm install -g json-server
+
 npm install --save bootstrap
+
 npm install --save reactstrap react react-dom
 
-#Running the engines
+## Running the engines
 
 **cd your d to api and run this**
 
-npx json-server ---watch db.json
+ npx json-server ---watch db.json
 
-*AND OPEN ANOTHER TERMINAL*
+>AND OPEN ANOTHER TERMINAL
 
 **cd your d to gr-fill and run this**
-npm start
 
+ npm start
 
+> now it must be working on localhost:3001
 
