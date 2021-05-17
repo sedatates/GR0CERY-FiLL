@@ -1,5 +1,6 @@
 # GR0CERY-FiLL
 This is the one might help me to get a job and show that i can do all this relatively hard stuff.
+it has categorizing and adding to cart __only number__ 😕 
 
 
 ## Development
